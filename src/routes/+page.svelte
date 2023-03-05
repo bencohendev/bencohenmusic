@@ -30,3 +30,7 @@
 		</li>
 	</ul>
 </div>
+<div>
+  <h3>Contact</h3>
+  <div><a href="ben@bencohenmusic.com">ben @ bencohenmusic.com</a></div>
+</div>
