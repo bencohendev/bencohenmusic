@@ -1,13 +1,14 @@
-<div>
-
-  <h1 class="text-4xl flex justify-center my-8">Welcome to Ben Cohen Music</h1>
-</div>
-<div class="flex justify-center h-screen">
+<div class="flex justify-center mt-8">
   <div>
+    <h1 class="text-4xl mb-2">Welcome to Ben Cohen Music</h1>
     <p class="mb-8">
       I'll be slowly working on rebuilding this website, but in the meantime you can check out the
       following links
     </p>
+  </div>
+</div>
+<div class="flex justify-center h-screen">
+  <div>
     <div>
       <ul>
         <li class="my-2">
